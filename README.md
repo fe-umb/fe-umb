@@ -2,7 +2,7 @@
 <div align="center">
 <img src="https://i.pinimg.com/originals/cb/21/1f/cb211fdd5dc5c7e0ad230bb6e7e2183f.gif">
 </div>
-<p align="center">My name is Fernanda, I'm 23 years old and currently working at NTT DATA as a developer 👩🏼‍💻.</p>
+<p align="center">My name is Fernanda, I'm 23 years old and currently working at Avanade as a developer 👩🏼‍💻.</p>
 <p align="center">I'm graduated in Computer Science and I'm a Data Science specialist. </p>
 <p align="center">Languages: brazilian portuguese, english and spanish. </p>
 <hr>
