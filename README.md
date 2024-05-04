@@ -1,6 +1,6 @@
 <h2 align="center"> oh, hi :) 💖 </h2>
 <div align="center">
-![taiga](https://github.com/fe-umb/fe-umb/assets/31020871/a75237ce-1813-4578-a0b4-9eaad570697a)
+<img src="https://raw.githubusercontent.com/fe-umb/fe-umb/main/taiga.gif">
 </div>
 <p align="center">My name is Fernanda, I'm 24 years old and currently working at Avanade as a developer 👩🏼‍💻.</p>
 <p align="center">I'm graduated in Computer Science and I'm a Data Science specialist. </p>
