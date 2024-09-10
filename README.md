@@ -34,8 +34,6 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fe-umb&theme=dracula&layout=compact" />
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=fe-umb&show_icons=true&theme=dracula" />
-
 </div>
 
 <hr>
