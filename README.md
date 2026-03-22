@@ -2,7 +2,7 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/fe-umb/fe-umb/main/taiga.gif">
 </div>
-<p align="center">👩🏼‍💻 My name is Fernanda, I'm 25 years old and currently working at Avanade as a developer. </p>
+<p align="center">👩🏼‍💻 My name is Fernanda, I'm 26 years old and currently working at Avanade as a developer. </p>
 <p align="center">I'm graduated in Computer Science and I'm a Data Science and Infosec specialist. You can check more at my <a href="https://www.linkedin.com/in/fernanda-umberto/">LinkedIn profile</a> :) </p>
 <p align="center">Currently working with Dynamics 365 customisations (Plugin, Javascript, HTML), Power Platform (Power Automate, Power Apps, Dataverse) and Azure (Functions and Service Bus). </p>
 <p align="center">🤓 Languages: brazilian portuguese, english and spanish. </p>
