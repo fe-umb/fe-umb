@@ -40,8 +40,6 @@
 <h2 align="center"> my personal interests 💖 </h2>
 <p align="center">videogames, animes (especially shoujos), yu-gi-oh (tcg), movies, books, pokémon, studying, stationery items, mario 64 speedruns, vocaloids, rhythm games, taylor swift.</p>
 <div align="center">
-<b>🎶 now playing: </b> <br>
-<img src="https://spotify-now-playing-fe-umb.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />
 <br>
 <img src="https://64.media.tumblr.com/tumblr_lqoh6yVDEy1r1e5pio1_500.gifv">
 </div>
